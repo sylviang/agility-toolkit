@@ -4,6 +4,7 @@
 
 ### Communication
 - [Nonviolent Communication](https://www.nonviolentcommunication.com/)
+- [Bullies, Tyrants, and Impossible People: How to Beat Them Without Joining Them](https://www.amazon.sg/Bullies-Tyrants-Impossible-People-Without/dp/140005012X)
 
 ### Organisation Development
 - [Drive:

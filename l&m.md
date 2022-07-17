@@ -4,6 +4,8 @@
 - [What Is a High-Performing Agile Team?](https://www.mountaingoatsoftware.com/blog/what-is-a-high-performing-agile-team)
 - [Staying on the path to high performing teams](https://lethain.com/durably-excellent-teams/)
 - [Why Everyone Should See Themselves as a Leader, podcast from Sue Ashford](https://www.listennotes.com/podcasts/hbr-ideacast/why-everyone-should-see-574rO01BYCl/)
+- [Can Agile and deadlines coexist in perfect harmony?](https://medium.com/awesome-agile/can-agile-and-deadlines-coexist-in-perfect-harmony-5018510ffcb8)
+- [Lean Metrics](https://nigelthurlow.com/2022/07/06/all-about-lean-metrics/)
 
 ### Resources
 - [Methods & Tools](https://www.methodsandtools.com/)
