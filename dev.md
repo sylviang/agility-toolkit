@@ -9,10 +9,17 @@
 - [Context Driven Testing](https://context-driven-testing.com/) – testing in a way that conforms to the context of the project
 - [Elephant Carpaccio Facilitation Guide](https://docs.google.com/document/d/1TCuuu-8Mm14oxsOnlk8DqfZAA1cvtYu9WGv67Yj_sSk/pub)
 
-### Articles
+### Reads
 - [Defect Prevention Using Agile Techniques](https://www.thoughtworks.com/insights/blog/defect-prevention-using-agile-techniques)
 - [Is Your Team Struggling With Sprint Planning?](spikesandstories.com/struggling-sprint-planning/)
 - [How to promote pair programming](https://medium.com/the-skilled-scrummaster/how-to-promote-pair-programming-e5697acb89e8)
 - [Strategies for Dealing with Bugs During Sprint](https://medium.com/agilelab/strategies-for-dealing-with-bugs-during-sprint-b30f29d8659d)
 - [Strategies for Handling Unplanned Work During Sprint](https://medium.com/agilelab/strategies-for-handling-unplanned-work-during-sprint-2f89697509ff)
 - [Your Sprint May Be A Mini Waterfall If…](https://agilevelocity.com/sprint-may-mini-waterfall/)
+- [Would you like architects with your architecture?](https://architectelevator.com/architecture/organizing-architecture/) - for folks used to waterfall env, and question the need for architects in the team. The answer depends on the maturity of the team.
+-[One to request, one to suggest and one to protest – the anatomy of a Three Amigos Requirements Discovery workshop](https://johnfergusonsmart.com/three-amigos-requirements-discovery/)
+- [Three Amigos Meeting – Agree the tests before development starts](https://itsadeliverything.com/three-amigos-meeting-agree-the-tests-before-development-starts)
+- [Your QA tester's hierarchy of needs: what is the agile testing pyramid?](https://www.onpathtesting.com/blog/qa-testers-what-is-the-agile-testing-pyramid)
+
+### Watch
+- [Philosophy of Software Design](https://youtu.be/bmSAYlu0NcY)

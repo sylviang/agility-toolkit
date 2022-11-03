@@ -27,3 +27,9 @@
 - [A Coach's Guide to Facilitation](https://leanpub.com/facilitation/read) - Techniques to improve your meetings
 - [Toolbox for the workshop facilitator - Facilitaton tricks and techniques](https://docs.google.com/presentation/d/1IMXozj-GgyX8rywJl2XoMW0R6xszGnSG8mTljOTvU7A/edit#slide=id.g9a3dc90cb_217_86)
 - [Visualization Examples](https://visualizationexamples.com/)
+
+### Reads
+- [The Agile Coaching Growth Wheel](https://resources.scrumalliance.org/Article/agile-coaching-growth-wheel)
+- [CPR Content - Pattern - Relationship](https://www.coaching4growth.co.nz/blog/2015/4/10/content-pattern-relationship)
+- [SBI Situation-Behavior-Impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/#:~:text=The%20Situation%2DBehavior%2DImpact%20method,holding%20talent%20conversations%20with%20employees.)
+- [The Scarf Model and how to use it](https://thecollaborationlab.com/blog/the-scarf-model-and-how-to-use-it)

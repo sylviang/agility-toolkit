@@ -13,4 +13,6 @@
 
 ### Reads
 - [The Scrum Princess](https://issuu.com/demiaretae/docs/scrum_princess_interior)
-- [Scrum Guide](https://scrumguides.org/scrum-guide.html) – Scrum is a common framework that most are using. Nov 2020 version is reduced to about 10 pages now.
+- [Scrum Guide](https://scrumguides.org/scrum-guide.html) – Scrum is a common framework that most are using. Nov 2020 version is reduced to about 10 pages now
+- [The biggest myth of agile development — faster, cheaper and better outcome](https://medium.com/singapore-gds/the-biggest-myth-of-agile-development-faster-cheaper-and-better-outcome-27c20a95978c)
+- [Software’s Seven Deadly Wastes](https://hackernoon.com/softwares-seven-deadly-wastes-8a88360d7027)
