@@ -33,3 +33,4 @@
 - [CPR Content - Pattern - Relationship](https://www.coaching4growth.co.nz/blog/2015/4/10/content-pattern-relationship)
 - [SBI Situation-Behavior-Impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/#:~:text=The%20Situation%2DBehavior%2DImpact%20method,holding%20talent%20conversations%20with%20employees.)
 - [The Scarf Model and how to use it](https://thecollaborationlab.com/blog/the-scarf-model-and-how-to-use-it)
+- [ScrumMaster Checklist](https://scrummasterchecklist.org)
