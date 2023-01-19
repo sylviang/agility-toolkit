@@ -1,4 +1,9 @@
 # Facilitation
+### Trainings / Workshops
+- [ICAgile Agile Team Facilitation](https://www.ntuclearninghub.com/en-gb/-/course/icagile-agile-team-facilitation)
+- [Enhanced Facilitation Skills (EFS)](https://pivotal-learning.com/public-courses/)
+- [Lego Serious Play](https://www.serious.global/learn/lego-serious-play-facilitator-training/singapore/)
+
 ### Guides
 - [18F Methods](https://methods.18f.gov/)
 - [ATTIC Cards](https://attic.bcpsqc.ca/cards/)
