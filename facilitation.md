@@ -39,3 +39,7 @@
 - [SBI Situation-Behavior-Impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/#:~:text=The%20Situation%2DBehavior%2DImpact%20method,holding%20talent%20conversations%20with%20employees.)
 - [The Scarf Model and how to use it](https://thecollaborationlab.com/blog/the-scarf-model-and-how-to-use-it)
 - [ScrumMaster Checklist](https://scrummasterchecklist.org)
+
+### Toolkit
+- [Facilitation Toolbox](https://trello.com/b/oC3oBEvY/facilitation-toolbox)
+- [Agile Adventures](https://trello.com/b/B0PX6v4j/agile-adventures)
