@@ -4,12 +4,15 @@
 - [Enhanced Facilitation Skills (EFS)](https://pivotal-learning.com/public-courses/)
 - [Lego Serious Play](https://www.serious.global/learn/lego-serious-play-facilitator-training/singapore/)
 
-### Guides
+### Guides / Tools
 - [18F Methods](https://methods.18f.gov/)
+- [Agile Adventures](https://trello.com/b/B0PX6v4j/agile-adventures)
+- [Agile Games](https://groups.google.com/g/agilegames)
 - [ATTIC Cards](https://attic.bcpsqc.ca/cards/)
 - [Design Method Toolkit](https://toolkits.dss.cloud/design/)
 - [Development Impact & Your](https://diytoolkit.org/tools/) – Practical tools to trigger & support social innovation
 - [Faster than 20](https://fasterthan20.com/)
+- [Facilitation Toolbox](https://trello.com/b/oC3oBEvY/facilitation-toolbox)
 - [Gamestorming](https://gamestorming.com/)
 - [Hyper Island Toolbox](https://toolbox.hyperisland.com/)
 - [IAF Methods Database](https://www.sessionlab.com/library/iafmethods)
@@ -39,7 +42,3 @@
 - [SBI Situation-Behavior-Impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/#:~:text=The%20Situation%2DBehavior%2DImpact%20method,holding%20talent%20conversations%20with%20employees.)
 - [The Scarf Model and how to use it](https://thecollaborationlab.com/blog/the-scarf-model-and-how-to-use-it)
 - [ScrumMaster Checklist](https://scrummasterchecklist.org)
-
-### Toolkit
-- [Facilitation Toolbox](https://trello.com/b/oC3oBEvY/facilitation-toolbox)
-- [Agile Adventures](https://trello.com/b/B0PX6v4j/agile-adventures)
