@@ -1,11 +1,26 @@
-# Books
-### Agile
-- [Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition](https://www.goodreads.com/book/show/8337919-coaching-agile-teams)
+# Agile Books
+Other books are in their respective disciplines
 
-### Communication
-- [Nonviolent Communication](https://www.nonviolentcommunication.com/)
-- [Bullies, Tyrants, and Impossible People: How to Beat Them Without Joining Them](https://www.amazon.sg/Bullies-Tyrants-Impossible-People-Without/dp/140005012X)
-
-### Organisation Development
-- [Drive:
-The Surprising Truth About What Motivates Us](https://www.danpink.com/) – The secret to high performance is the deeply human need to direct our own lives, to learn and create new things, and to do better by ourselves and our world.
+- [Agile Coaching](https://www.amazon.com/Agile-Coaching-Rachel-Davies/dp/1934356433)
+- [Agile Product Management with Scrum: Creating Products that Customers Love](https://www.amazon.com/Agile-Product-Management-Scrum-Addison-Wesley/dp/0321605780)
+- [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
+- [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468)
+- [Challenging Coaching: Going Beyond Traditional Coaching to Face the FACTS](https://www.amazon.com/Challenging-Coaching-Going-Beyond-Traditional/dp/1904838391/)
+- [Clean Language:Revealing Metaphors and Opening Minds](https://www.amazon.com/Clean-Language-Revealing-Metaphors-Opening/dp/1845901258/)
+- [Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition](https://www.amazon.com/gp/product/0321637704)
+- [Coaching for Performance: The Principles and Practice of Coaching and Leadership](https://www.amazon.com/Coaching-Performance-Potential-Principles-Leadership-ebook/dp/B0047T7MQ0)
+- [Conversations Worth Having: Using Appreciative Inquiry to Fuel Productive and Meaningful Engagement](https://www.amazon.com/Conversations-Worth-Having-Appreciative-Productive/dp/152309401X/)
+- [Cultivating Communities of Practice](https://www.amazon.com/Cultivating-Communities-Practice-Etienne-Wenger/dp/1578513308/)
+- [Emotional Intelligence 2.0](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry/dp/0974320625)
+- [Executive Coaching with Backbone and Heart: A Systems Approach to Engaging Leaders with Their Challenges](https://www.amazon.com/Executive-Coaching-Backbone-Heart-Challenges/dp/0787986399/)
+- [Extreme Programming Explained: Embrace Change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+- [Fierce Conversations: Achieving Success at Work and in Life One Conversation at a Time](https://www.amazon.com/Fierce-Conversations-Achieving-Success-Conversation/dp/0425193373)
+- [Kanban: Successful Evolutionary Change for Your Technology Business](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402)
+- [Large-Scale Scrum: More with LeSS](https://www.amazon.com/Large-Scale-Scrum-More-Craig-Larman/dp/0321985710)
+- [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/)
+- [Open Space Technology: A User's Guide](https://www.amazon.com/Open-Space-Technology-Users-Guide/dp/1576754766)
+- [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.amazon.com/Coaching-Habit-Less-Change-Forever-ebook/dp/B01BUIBBZI)
+- [The Lean Mindset: Ask the Right Questions](https://www.amazon.com/Lean-Mindset-Ask-Right-Questions/dp/0321896904)
+- [The Mindful Coach: Seven Roles for Facilitating Leader Development](https://www.amazon.com/Mindful-Coach-Facilitating-Leader-Development/dp/0470548665/)
+- [The Surprising Power of Liberating Structures: Simple Rules to Unleash A Culture of Innovation](https://www.amazon.com/Surprising-Power-Liberating-Structures-Innovation/dp/0615893376/)
+- [The Responsibility Process: Unlocking Your Natural Ability to Live and Lead with Power](https://www.amazon.com/Responsibility-Process-Unlocking-Natural-Ability-ebook/dp/B01LYB6QV1/)

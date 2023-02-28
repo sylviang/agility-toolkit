@@ -22,3 +22,4 @@
 
 ### Watch
 - [Nordstrom Innovation Lab](https://www.youtube.com/watch?v=2NFH3VC6LNs) – An example of rapid iteration with customer involvement
+- [The Power of an Agile Mindset - Linda Rising](https://www.youtube.com/watch?v=W47rcJowx7k)

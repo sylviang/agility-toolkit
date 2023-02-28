@@ -3,6 +3,7 @@
 - [ICAgile Agile Team Facilitation](https://www.ntuclearninghub.com/en-gb/-/course/icagile-agile-team-facilitation)
 - [Enhanced Facilitation Skills (EFS)](https://pivotal-learning.com/public-courses/)
 - [Lego Serious Play](https://www.serious.global/learn/lego-serious-play-facilitator-training/singapore/)
+- [Training from the back of the room!(TBR)](https://www.bowperson.com/)
 
 ### Guides / Tools
 - [18F Methods](https://methods.18f.gov/)
@@ -30,15 +31,19 @@
 - [Stanford Design School](https://dschool.stanford.edu/resources/)
 - [Tasty Cupcakes](https://www.tastycupcakes.org/)
 - [Tools for inter-sector collaboration](https://intersector.com/toolkit/)
+- [World Cafe](https://theworldcafe.com/)
+
+### Articles
+- [The Scarf Model and how to use it](https://thecollaborationlab.com/blog/the-scarf-model-and-how-to-use-it)
+- [ScrumMaster Checklist](https://scrummasterchecklist.org)
 
 ### Books
+- [Collaboration Explained: Facilitation Skills for Software Project Leaders](https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Project/dp/0321268776)
+- [The Skilled Facilitator: A Comprehensive Resource for Consultants, Facilitators, Coaches, and Trainers](https://www.amazon.com/Skilled-Facilitator-Comprehensive-Consultants-Facilitators/dp/1119064392)
+- [The IAF Handbook of Group Facilitation: Best Practices from the Leading Organization in Facilitation](https://www.amazon.com/IAF-Handbook-Group-Facilitation-Organization/dp/078797160X)
+- [Facilitator's Guide to Participatory Decision-Making](https://www.amazon.com/Facilitators-Participatory-Decision-Making-Jossey-bass-Management/dp/1118404955)
+- [The Remote Facilitator's Pocket Guide](https://www.amazon.com/Remote-Facilitators-Pocket-Guide/dp/1523089105/)
 - [A Coach's Guide to Facilitation](https://leanpub.com/facilitation/read) - Techniques to improve your meetings
 - [Toolbox for the workshop facilitator - Facilitaton tricks and techniques](https://docs.google.com/presentation/d/1IMXozj-GgyX8rywJl2XoMW0R6xszGnSG8mTljOTvU7A/edit#slide=id.g9a3dc90cb_217_86)
 - [Visualization Examples](https://visualizationexamples.com/)
-
-### Reads
-- [The Agile Coaching Growth Wheel](https://resources.scrumalliance.org/Article/agile-coaching-growth-wheel)
-- [CPR Content - Pattern - Relationship](https://www.coaching4growth.co.nz/blog/2015/4/10/content-pattern-relationship)
-- [SBI Situation-Behavior-Impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/#:~:text=The%20Situation%2DBehavior%2DImpact%20method,holding%20talent%20conversations%20with%20employees.)
-- [The Scarf Model and how to use it](https://thecollaborationlab.com/blog/the-scarf-model-and-how-to-use-it)
-- [ScrumMaster Checklist](https://scrummasterchecklist.org)
+- [The Art and Science of Training](https://www.amazon.com/Art-Science-Training-Elaine-Biech/dp/1607280949)

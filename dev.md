@@ -22,4 +22,7 @@
 - [Your QA tester's hierarchy of needs: what is the agile testing pyramid?](https://www.onpathtesting.com/blog/qa-testers-what-is-the-agile-testing-pyramid)
 
 ### Watch
+- [When To Use Microservices (And When Not To!) Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
 - [Philosophy of Software Design](https://youtu.be/bmSAYlu0NcY)
+- [Software Engineering - Development in 100 Years Time, Dave Farley](https://www.youtube.com/watch?v=tk6Isedq3GA) – the essence of software dev
+- [Types Of Technical Debt And How To Manage Them](https://www.youtube.com/watch?v=1MBpK_PxEnU) – how to manage tech debt
