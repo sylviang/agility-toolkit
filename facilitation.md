@@ -36,6 +36,9 @@
 ### Articles
 - [The Scarf Model and how to use it](https://thecollaborationlab.com/blog/the-scarf-model-and-how-to-use-it)
 - [ScrumMaster Checklist](https://scrummasterchecklist.org)
+- [Collaboration tools](https://andiroberts.com/collaboration-tools/)
+- [Engage Everyone Simultaneously in Generating Questions, Ideas, and Suggestions with 1–2–4-ALL](https://medium.com/the-liberators/use-1-2-4-all-to-tap-into-the-collective-brainpower-of-a-group-of-any-size-6cf60ac7a818)
+- [40 ideas to spice up your retrospective](https://agilestrides.com/blog/40-ideas-to-spice-up-your-retrospective/)
 
 ### Books
 - [Collaboration Explained: Facilitation Skills for Software Project Leaders](https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Project/dp/0321268776)
@@ -47,3 +50,19 @@
 - [Toolbox for the workshop facilitator - Facilitaton tricks and techniques](https://docs.google.com/presentation/d/1IMXozj-GgyX8rywJl2XoMW0R6xszGnSG8mTljOTvU7A/edit#slide=id.g9a3dc90cb_217_86)
 - [Visualization Examples](https://visualizationexamples.com/)
 - [The Art and Science of Training](https://www.amazon.com/Art-Science-Training-Elaine-Biech/dp/1607280949)
+
+### Workshops / Exercies / Games
+**Introducing Agile**
+- [Morning wake up game](https://www.agilesparks.com/blog/wake-up-in-the-morning-game/) which we use to both energize the audience and start learning about agile
+- [Marshmallow challenge](https://dschool.stanford.edu/resources/spaghetti-marshmallow-challenge) to get better leverage for the implementation
+- [Agile airplane game](http://gistlabs.com/2011/06/agile-airplane-game/)
+- [Ballpoint game](http://dpwhelan.com/blog/uncategorized/learning-scrum-through-the-ball-point-game/) for introducing Scrum to new agile teams
+- [XP game](http://www.xp.be/xpgame/) with [simulation](http://agilitrix.com/2009/08/scrum-simulation-xpgame/)
+- [Kanban pizza game](https://www.agile42.com/en/training/kanban-pizza-game/)
+
+**Sizing / Estimation**
+- [White Elephant sizing game](https://tastycupcakes.org/2009/09/sizing-game/)
+
+**Lean Games**
+- [Lean Games](http://www.leansimulations.org/p/huge-list-of-free-lean-games.html) to facilitate the learning of agile concepts
+

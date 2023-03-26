@@ -20,6 +20,12 @@
 -[One to request, one to suggest and one to protest – the anatomy of a Three Amigos Requirements Discovery workshop](https://johnfergusonsmart.com/three-amigos-requirements-discovery/)
 - [Three Amigos Meeting – Agree the tests before development starts](https://itsadeliverything.com/three-amigos-meeting-agree-the-tests-before-development-starts)
 - [Your QA tester's hierarchy of needs: what is the agile testing pyramid?](https://www.onpathtesting.com/blog/qa-testers-what-is-the-agile-testing-pyramid)
+- [Replacing The User Story With The Job Story](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
+- [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
+- [Domain Driven Design - Clear Your Concepts Before You Start](https://www.codeproject.com/Articles/339725/Domain-Driven-Design-Clear-Your-Concepts-Before-Yo)
+- [Agile Process Proverbs](http://www.agile-process.org/proverbs.html)
+- [BeckDesignRules](https://martinfowler.com/bliki/BeckDesignRules.html)
+- [Better Together – XP and Scrum](https://medium.com/agile-outside-the-box/better-together-xp-and-scrum-c69bf9bffcff)
 
 ### Watch
 - [When To Use Microservices (And When Not To!) Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q)

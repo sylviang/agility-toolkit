@@ -3,9 +3,15 @@
 - [Agile Coaching Growth Wheel](https://resources.scrumalliance.org/Article/agile-coaching-growth-wheel)
 - [Agile Coach Competency Framework](https://agilecoachcompetencyframework.com/)
 
+### Coaching
+- [Getting Them To Do X](https://www.geepawhill.org/2017/07/15/getting-them-to-do-x/)
+- [The importance of good conversation – and how to have it](https://www.ted.com/talks/john_o_leary_the_importance_of_good_conversation_and_how_to_have_it)
+
 ### Giving Feedback
 - [Content - Pattern - Relationship](https://www.coaching4growth.co.nz/blog/2015/4/10/content-pattern-relationship)
 - [SBI](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/)
+- [EPIQ Feedback Model](https://www.viktorcessan.com/epiq-feedback-model/)
+- [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy)
 
 ### Mentoring
 - [Creating a Mentoring Program: Mentoring Partnerships Across the Generations](https://www.amazon.com/Creating-Mentoring-Program-Partnerships-Generations/dp/1562868985)

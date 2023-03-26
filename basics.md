@@ -19,6 +19,7 @@
 - [The biggest myth of agile development — faster, cheaper and better outcome](https://medium.com/singapore-gds/the-biggest-myth-of-agile-development-faster-cheaper-and-better-outcome-27c20a95978c)
 - [Software’s Seven Deadly Wastes](https://hackernoon.com/softwares-seven-deadly-wastes-8a88360d7027)
 - [Fixed Scope, Time & Cost](https://crunchtech.medium.com/fixed-scope-time-cost-469b801282d4)
+- [Planning and Running an XP Iteration](https://martinfowler.com/articles/planningXpIteration.html)
 
 ### Watch
 - [Nordstrom Innovation Lab](https://www.youtube.com/watch?v=2NFH3VC6LNs) – An example of rapid iteration with customer involvement

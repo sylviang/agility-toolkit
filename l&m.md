@@ -5,6 +5,7 @@
 - [Management 3.0](https://management30.com/)
 - [Radical Management](https://stevedenning.com/radical-management/) – Delight the customer.
 - [Rightshifting](https://flowchainsensei.wordpress.com/rightshifting/)
+- [TOMASP Decision Making](https://engineering.shopify.com/blogs/engineering/make-great-decisions-quickly-with-tomasp)
 - [Vanguard Method](https://vanguard-method.com/) – from command-and-control to systems design
 
 ### Management
