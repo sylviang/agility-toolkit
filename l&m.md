@@ -19,6 +19,8 @@
 - [Why Everyone Should See Themselves as a Leader, podcast from Sue Ashford](https://www.listennotes.com/podcasts/hbr-ideacast/why-everyone-should-see-574rO01BYCl/)
 - [Can Agile and deadlines coexist in perfect harmony?](https://medium.com/awesome-agile/can-agile-and-deadlines-coexist-in-perfect-harmony-5018510ffcb8)
 - [Lean Metrics](https://nigelthurlow.com/2022/07/06/all-about-lean-metrics/)
+- [Shifting the Burden – Whose Monkey is it?](https://www.donaldegray.com/shifting-the-burden-whos-monkey-is-it/)
+- [Solving Other People’s Problems](https://www.donaldegray.com/solving-other-peoples-problems/)
 
 ### Resources
 - [Methods & Tools](https://www.methodsandtools.com/)
