@@ -4,6 +4,8 @@
 - [Enhanced Facilitation Skills (EFS)](https://pivotal-learning.com/public-courses/)
 - [Lego Serious Play](https://www.serious.global/learn/lego-serious-play-facilitator-training/singapore/)
 - [Training from the back of the room!(TBR)](https://www.bowperson.com/)
+- [International Association of Facilitators (IAF)](https://www.iaf-world.org/site/)
+- [The Institute of Cultural Affairs (ICA)](https://ica-uk.org.uk/course/)
 
 ### Guides / Tools
 - [18F Methods](https://methods.18f.gov/)
@@ -16,9 +18,10 @@
 - [Facilitation Toolbox](https://trello.com/b/oC3oBEvY/facilitation-toolbox)
 - [Gamestorming](https://gamestorming.com/)
 - [Hyper Island Toolbox](https://toolbox.hyperisland.com/)
-- [IAF Methods Database](https://www.sessionlab.com/library/iafmethods)
+- [IAF Methods Database](https://www.sessionlab.com/library/iafmethods)https://www.sessionlab.com/team/iaf/library
 - [Ideo Methods](http://www.designkit.org/methods)
 - [Lean Coffee](http://leancoffee.org/)
+- [Lego4Scrum](https://www.lego4scrum.com/)
 - [Liberating Structures](http://www.liberatingstructures.com/ls/)
 - [Lisette Sutherland's Remote Collaboration](https://www.collaborationsuperpowers.com/remote-resources/)
 - [Management 3.0](https://management30.com/practice/)
@@ -30,6 +33,7 @@
 - [Session Labs Tools](https://www.sessionlab.com/library)
 - [Stanford Design School](https://dschool.stanford.edu/resources/)
 - [Tasty Cupcakes](https://www.tastycupcakes.org/)
+- [Time Timer](https://www.timetimer.com/products/time-timer-ios-app)
 - [Tools for inter-sector collaboration](https://intersector.com/toolkit/)
 - [World Cafe](https://theworldcafe.com/)
 
@@ -39,6 +43,10 @@
 - [Collaboration tools](https://andiroberts.com/collaboration-tools/)
 - [Engage Everyone Simultaneously in Generating Questions, Ideas, and Suggestions with 1–2–4-ALL](https://medium.com/the-liberators/use-1-2-4-all-to-tap-into-the-collective-brainpower-of-a-group-of-any-size-6cf60ac7a818)
 - [40 ideas to spice up your retrospective](https://agilestrides.com/blog/40-ideas-to-spice-up-your-retrospective/)
+- [10 Ways To (Politely) Get Someone To Shut Up](http://www.meeting-facilitation.co.uk/blog/files/10-ways-to-get-someone-to-shut-up.html)
+- [The Mighty Power Of The Humble Gridcard](http://www.meeting-facilitation.co.uk/blog/files/the-mighty-power-of-the-humble-gridcard.html)
+- [What is Focused Discussion? (ORID)](http://www.meeting-facilitation.co.uk/blog/files/focused-discussion.html)
+- [A Short (and personal) History Of Leading Change](http://www.meeting-facilitation.co.uk/blog/files/a-short-history-of-leading-change.html)
 
 ### Books
 - [Collaboration Explained: Facilitation Skills for Software Project Leaders](https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Project/dp/0321268776)
