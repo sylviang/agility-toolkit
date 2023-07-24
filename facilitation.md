@@ -1,11 +1,11 @@
 # Facilitation
 ### Trainings / Workshops
-- [ICAgile Agile Team Facilitation](https://www.ntuclearninghub.com/en-gb/-/course/icagile-agile-team-facilitation)
 - [Enhanced Facilitation Skills (EFS)](https://pivotal-learning.com/public-courses/)
-- [Lego Serious Play](https://www.serious.global/learn/lego-serious-play-facilitator-training/singapore/)
-- [Training from the back of the room!(TBR)](https://www.bowperson.com/)
+- [ICAgile Agile Team Facilitation](https://www.ntuclearninghub.com/en-gb/-/course/icagile-agile-team-facilitation)
 - [International Association of Facilitators (IAF)](https://www.iaf-world.org/site/)
+- [Serious Work's Lego Serious Play](https://www.serious.global/learn/lego-serious-play-facilitator-training/singapore/)
 - [The Institute of Cultural Affairs (ICA)](https://ica-uk.org.uk/course/)
+- [Training from the back of the room!(TBR)](https://www.bowperson.com/)
 
 ### Guides / Tools
 - [18F Methods](https://methods.18f.gov/)
@@ -22,6 +22,7 @@
 - [Ideo Methods](http://www.designkit.org/methods)
 - [Lean Coffee](http://leancoffee.org/)
 - [Lego4Scrum](https://www.lego4scrum.com/)
+- [Lego Serious Play - Open source](files/lego-serious-play-open-source.pdf)
 - [Liberating Structures](http://www.liberatingstructures.com/ls/)
 - [Lisette Sutherland's Remote Collaboration](https://www.collaborationsuperpowers.com/remote-resources/)
 - [Management 3.0](https://management30.com/practice/)
@@ -49,28 +50,28 @@
 - [A Short (and personal) History Of Leading Change](http://www.meeting-facilitation.co.uk/blog/files/a-short-history-of-leading-change.html)
 
 ### Books
-- [Collaboration Explained: Facilitation Skills for Software Project Leaders](https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Project/dp/0321268776)
-- [The Skilled Facilitator: A Comprehensive Resource for Consultants, Facilitators, Coaches, and Trainers](https://www.amazon.com/Skilled-Facilitator-Comprehensive-Consultants-Facilitators/dp/1119064392)
-- [The IAF Handbook of Group Facilitation: Best Practices from the Leading Organization in Facilitation](https://www.amazon.com/IAF-Handbook-Group-Facilitation-Organization/dp/078797160X)
-- [Facilitator's Guide to Participatory Decision-Making](https://www.amazon.com/Facilitators-Participatory-Decision-Making-Jossey-bass-Management/dp/1118404955)
-- [The Remote Facilitator's Pocket Guide](https://www.amazon.com/Remote-Facilitators-Pocket-Guide/dp/1523089105/)
 - [A Coach's Guide to Facilitation](https://leanpub.com/facilitation/read) - Techniques to improve your meetings
+- [Collaboration Explained: Facilitation Skills for Software Project Leaders](https://www.amazon.com/Collaboration-Explained-Facilitation-Software-Project/dp/0321268776)
+- [Facilitator's Guide to Participatory Decision-Making](https://www.amazon.com/Facilitators-Participatory-Decision-Making-Jossey-bass-Management/dp/1118404955)
+- [From the Front of the Room](https://www.amazon.com/Front-Room-Facilitation-Experienced-Practitioners-ebook/dp/B0BV6W3S5H)
+- [The Art and Science of Training](https://www.amazon.com/Art-Science-Training-Elaine-Biech/dp/1607280949)
+- [The IAF Handbook of Group Facilitation: Best Practices from the Leading Organization in Facilitation](https://www.amazon.com/IAF-Handbook-Group-Facilitation-Organization/dp/078797160X)
+- [The Remote Facilitator's Pocket Guide](https://www.amazon.com/Remote-Facilitators-Pocket-Guide/dp/1523089105/)
+- [The Skilled Facilitator: A Comprehensive Resource for Consultants, Facilitators, Coaches, and Trainers](https://www.amazon.com/Skilled-Facilitator-Comprehensive-Consultants-Facilitators/dp/1119064392)
 - [Toolbox for the workshop facilitator - Facilitaton tricks and techniques](https://docs.google.com/presentation/d/1IMXozj-GgyX8rywJl2XoMW0R6xszGnSG8mTljOTvU7A/edit#slide=id.g9a3dc90cb_217_86)
 - [Visualization Examples](https://visualizationexamples.com/)
-- [The Art and Science of Training](https://www.amazon.com/Art-Science-Training-Elaine-Biech/dp/1607280949)
 
 ### Workshops / Exercies / Games
 **Introducing Agile**
-- [Morning wake up game](https://www.agilesparks.com/blog/wake-up-in-the-morning-game/) which we use to both energize the audience and start learning about agile
-- [Marshmallow challenge](https://dschool.stanford.edu/resources/spaghetti-marshmallow-challenge) to get better leverage for the implementation
 - [Agile airplane game](http://gistlabs.com/2011/06/agile-airplane-game/)
 - [Ballpoint game](http://dpwhelan.com/blog/uncategorized/learning-scrum-through-the-ball-point-game/) for introducing Scrum to new agile teams
-- [XP game](http://www.xp.be/xpgame/) with [simulation](http://agilitrix.com/2009/08/scrum-simulation-xpgame/)
 - [Kanban pizza game](https://www.agile42.com/en/training/kanban-pizza-game/)
+- [Marshmallow challenge](https://dschool.stanford.edu/resources/spaghetti-marshmallow-challenge) to get better leverage for the implementation
+- [Morning wake up game](https://www.agilesparks.com/blog/wake-up-in-the-morning-game/) which we use to both energize the audience and start learning about agile
+- [XP game](http://www.xp.be/xpgame/) with [simulation](http://agilitrix.com/2009/08/scrum-simulation-xpgame/)
 
 **Sizing / Estimation**
 - [White Elephant sizing game](https://tastycupcakes.org/2009/09/sizing-game/)
 
 **Lean Games**
 - [Lean Games](http://www.leansimulations.org/p/huge-list-of-free-lean-games.html) to facilitate the learning of agile concepts
-
