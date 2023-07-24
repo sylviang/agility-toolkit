@@ -22,7 +22,7 @@
 - [Ideo Methods](http://www.designkit.org/methods)
 - [Lean Coffee](http://leancoffee.org/)
 - [Lego4Scrum](https://www.lego4scrum.com/)
-- [Lego Serious Play - Open source](files/lego-serious-play-open-source.pdf)
+- [Lego Serious Play - Open source](./files/lego-serious-play-open-source.pdf)
 - [Liberating Structures](http://www.liberatingstructures.com/ls/)
 - [Lisette Sutherland's Remote Collaboration](https://www.collaborationsuperpowers.com/remote-resources/)
 - [Management 3.0](https://management30.com/practice/)
