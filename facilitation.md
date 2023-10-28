@@ -48,6 +48,7 @@
 - [The Mighty Power Of The Humble Gridcard](http://www.meeting-facilitation.co.uk/blog/files/the-mighty-power-of-the-humble-gridcard.html)
 - [What is Focused Discussion? (ORID)](http://www.meeting-facilitation.co.uk/blog/files/focused-discussion.html)
 - [A Short (and personal) History Of Leading Change](http://www.meeting-facilitation.co.uk/blog/files/a-short-history-of-leading-change.html)
+- [Open Space Technology](https://www.liberatingstructures.com/25-open-space-technology/)
 
 ### Books
 - [A Coach's Guide to Facilitation](https://leanpub.com/facilitation/read) - Techniques to improve your meetings
