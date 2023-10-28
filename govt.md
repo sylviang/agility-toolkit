@@ -3,6 +3,8 @@
 - [Canadian Digital Services](https://digital.canada.ca/)
 - [Estonia](https://e-estonia.com/)
 - [Iceland](https://island.is/en/o/digital-iceland/island-services)
+- [Indonesia's GovTech Edu](https://www.govtechedu.id/)
+- [Indonesia's Ministry of Health (MOH)'s Digital Transformation Office (DTO)](https://dto.kemkes.go.id/)
 - [Japan’s Digital Agency](https://www.digital.go.jp/en/)
 - [Singapore Government Developer Portal](https://www.developer.tech.gov.sg/)
 - [Sweden's DIGG](https://www.digg.se/en)
