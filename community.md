@@ -55,6 +55,9 @@ Testing
 UX
 - [UX Copenhagen](https://uxcopenhagen.com/)
 
+### Programs
+- [Leading Complexity](https://leadingcomplexity.com/)  
+
 ### Communities
 - [Hands-on Agile Community](https://www.meetup.com/Hands-on-Agile-Berlin-Chapter-Meetup/)
 - [Facilitators for Pandemic Response Group](https://groups.io/g/f4c-response)
