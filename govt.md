@@ -10,7 +10,7 @@
 - [Sweden's DIGG](https://www.digg.se/en)
 - [UK Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
 - [U.S. Digital Service](https://www.usds.gov/)
-- [California](https://innovation.ca.gov/)
+- [California Digital Service](https://innovation.ca.gov/)
 - [Colorado Digital Service](https://oit.colorado.gov/colorado-digital-service)
 - [Georgia Digital Service](https://digital.georgia.gov/)
 - [Massachusetts Digital Service](https://www.mass.gov/orgs/massachusetts-digital-service)
