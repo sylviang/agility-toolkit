@@ -23,6 +23,7 @@
 - [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/)
 - [plainlanguage.gov](https://www.plainlanguage.gov/)
 - [Sample Quality Assessment Surveillance Plan (QASP)](https://derisking-guide.18f.gov/qasp/)
+- [IndiaStack](https://indiastack.org/index.html)
 
 ### Bring Private-Sector Technologists into Government
 - [18F](https://18f.gsa.gov/)
