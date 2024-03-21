@@ -3,6 +3,7 @@
 - [Enhanced Facilitation Skills (EFS)](https://pivotal-learning.com/public-courses/)
 - [ICAgile Agile Team Facilitation](https://www.ntuclearninghub.com/en-gb/-/course/icagile-agile-team-facilitation)
 - [International Association of Facilitators (IAF)](https://www.iaf-world.org/site/)
+- [Process Facilitation Skills Workshop](https://www.idialogue.sg/events/process-facilitation-skills-workshop-6/)
 - [Serious Work's Lego Serious Play](https://www.serious.global/learn/lego-serious-play-facilitator-training/singapore/)
 - [The Institute of Cultural Affairs (ICA)](https://ica-uk.org.uk/course/)
 - [Training from the back of the room!(TBR)](https://www.bowperson.com/)
