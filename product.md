@@ -8,3 +8,9 @@
 - [Product Vision FAQs](https://www.romanpichler.com/blog/product-vision-faqs/)
 - [The Product Strategy Cycle](https://www.romanpichler.com/blog/the-product-strategy-cycle)
 - [Tips for managing an API backlog (for Non-Technical PMs)](https://content.pivotal.io/practitioners/designing-developing-an-api-product-part-3-of-4)
+
+### Resources
+- [STARS framework](https://www.starsframework.org/) - A framework to evaluate feature engagement and satisfaction in SaaS products
+
+### Watch
+- [Our buggy moral code](https://www.ted.com/talks/dan_ariely_our_buggy_moral_code/) - Check our intuitions in a more systematic experiments.
