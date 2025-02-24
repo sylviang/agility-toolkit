@@ -1,6 +1,6 @@
 # Community
 ### Conferences / UnConferences / Festivals
-Singapore
+#### Singapore
 - [STACK X](https://www.developer.tech.gov.sg/communities/events/conferences/)
 - [GeekCamp SG](https://geekcamp.sg/)
 - [GopherCon SG](https://gophercon.sg/)
@@ -11,7 +11,20 @@ Singapore
 - [API Days](https://www.apidays.global/singapore/)
 - [CityJS Singapore](https://singapore.cityjsconf.org/)
 
-Agile
+#### Product Management
+- [Mind the Product](https://www.mindtheproduct.com/conferences/)
+- [Forrester’s B2B Summit](https://www.forrester.com/event/b2b-summit-north-america/)
+- [Future Product Days](https://www.futureproductdays.com/)
+- [Industry](https://www.industryconference.com/)
+- [Leading The Product](https://www.leadingtheproduct.com/conference/)
+- [Product at Heart](https://productatheart.com/)
+- [ProductCon](https://productschool.com/productcon)
+- [ProductLab Conf>](https://productlab.app/)
+- [ProductWorld](https://productworld.co/)
+- [ProductX](https://www.productx.org/)
+- [UXDX](https://uxdx.com/conferences/)
+
+#### Agile
 - [ACE! Conference](https://aceconf.com/) – largest in central europe
 - [Agile meets Architecture](https://www.agile-meets-architecture.com/2023/home)
 - [Agile2023](https://www.agilealliance.org/agile2023/)
@@ -33,10 +46,12 @@ Agile
 - [WOW Summit Hong Kong](https://wowsummit.net/hong-kong-mar-2023/)
 - [XP 2023](https://www.agilealliance.org/xp2023/)
 
-Tech / DevOps
-- [DevTernity](https://devternity.com/) – ❤️ I personally recommend attending
+#### Tech / DevOps
+- [DevTernity](https://devternity.com/)
 - [DevOps fwdays'23 conference](https://fwdays.com/en/event/devops-fwdays-2023)
+- [dxday - Developer Experience Conference](dxday.it)
 - [LeadDev](https://leaddev.com/events)
+- [NDC {Tech Town}](https://ndctechtown.com/)
 - [Python Web Conf](https://pythonwebconf.com/) – Online
 - [Ruby Kaigi](https://rubykaigi.org/) – Japan
 - [Ruby Con Thailand](https://rubyconfth.com/)
@@ -45,14 +60,15 @@ Tech / DevOps
 - [The DevOps Conference](https://www.thedevopsconference.com/) - Online, Free.
 - [Web Weekend Kathmandu](https://wwktm.co/)
 
-Testing
+#### Testing
 - [Agile Testing Days](https://agiletestingdays.com/)
 - [Test Automation University (TAU) Conference](https://applitools.info/8ak) – Online
 - [TDD Conference](https://tddconf.com/)
 - [Test Automation Summit](https://www.testingmind.com/event/tas2022/test-automation-summit-singapore/)
 - [TestBash Spring 2023](https://www.ministryoftesting.com/events/testbash-spring-2023)
 
-UX
+#### UX
+- [Front](https://www.frontutah.com/)
 - [UX Copenhagen](https://uxcopenhagen.com/)
 
 ### Programs
@@ -62,9 +78,10 @@ UX
 - [Hands-on Agile Community](https://www.meetup.com/Hands-on-Agile-Berlin-Chapter-Meetup/)
 - [Facilitators for Pandemic Response Group](https://groups.io/g/f4c-response)
 
-### Singapore Meetups
+### Meetups (Singapore)
 - [Agile Circles Singapore](https://www.meetup.com/Agile-Circles-Singapore/)
 - [Agile Singapore](https://www.meetup.com/Agile-Singapore/)
+- [luma](https://lu.ma/discover)
 - [New Ways of Working - Singapore](https://www.meetup.com/New-Ways-of-Working-Singapore/)
 - [Product Talks Singapore](https://www.meetup.com/producttalkssingapore/)
 - [Singapore Scrum Patterns Meetup Group](https://www.meetup.com/Singapore-Scrum-Patterns-Meetup-Group)

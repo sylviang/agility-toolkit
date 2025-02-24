@@ -3,7 +3,6 @@
 - [Dual-Track Agile](https://www.jpattonassociates.com/dual-track-development/)
 - [UX Basics: Study Guide](https://www.nngroup.com/articles/ux-basics-study-guide) – collection of links by NN/g
 - [Are we in control of our own decisions?](https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions)
-- 
 
 ### Trainings / Courses / Workshops / Resources
 - [UX Content Collective](https://uxcontent.com/)
