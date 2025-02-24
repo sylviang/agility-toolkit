@@ -34,4 +34,15 @@
 ### Others
 - [ADPList](https://adplist.org/) - Further mentorship
 - [Coaching Tools – The Plan](https://www.svpg.com/coaching-tools-the-plan/)
+
+### Books
+- [Hooked](https://www.nirandfar.com/hooked/) - How to build habit-forming products
+- [Inspired](https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/) - How to create tech products customers love
+- [Purple Cow](https://www.amazon.sg/Purple-Cow-New-Transform-Remarkable/dp/1591843170) - Transform your business by being remarkable
+- [The Mom Test](https://www.momtestbook.com/) - How to talk to customers & learn if your business is a good idea when everyone is lying to you
+- [The Right It](https://www.albertosavoia.com/therightit.html) - Why so many ideas fail and how to make sure yours succeed
+
+### Videos
+- [Competing Against Luck](https://www.youtube.com/watch?v=V603pf9s5WA) - The story of innovation and customer choice
+- [Talk Like TED](https://www.youtube.com/watch?v=AFTPyvO6kcY) - The 9 public-speaking secrets of the world's top minds
 - [Our buggy moral code](https://www.ted.com/talks/dan_ariely_our_buggy_moral_code/) - Check our intuitions in a more systematic experiments

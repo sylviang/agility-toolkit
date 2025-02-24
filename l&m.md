@@ -27,3 +27,6 @@
 
 ### Books
 - [Leading Change](https://www.amazon.com/Leading-Change-New-Preface-Author/dp/1422186431)
+
+### Videos
+- [Extreme Ownership](https://www.youtube.com/watch?v=ljqra3BcqWM) - How U.S. Navy SEALs lead and win
